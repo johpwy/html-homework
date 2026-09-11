@@ -1,0 +1,18 @@
+th,
+td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+table {
+  border-collapse: collapse;
+  text-align-last: center;
+}
+thead {
+  background-color: black;
+  font-weight: 700;
+  color: white;
+}
+tbody {
+  background-color: beige;
+}
